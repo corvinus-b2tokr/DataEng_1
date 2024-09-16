@@ -1,2 +1,2 @@
 print("hello")
-print("This is the second line")
+print("Some more text")
